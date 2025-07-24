@@ -1,5 +1,15 @@
-
 # Vishnu's Berger Hut
+
+![HTML](https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Responsive](https://img.shields.io/badge/Responsive-Design-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Project-Active-brightgreen?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Live Demo](https://img.shields.io/badge/Live-Demo-orange?style=for-the-badge&logo=google-chrome)
+
+![GitHub Repo Size](https://img.shields.io/github/repo-size/VishnuPrasanth-A/Buger_Shop?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/VishnuPrasanth-A/Buger_Shop?style=flat-square)
+![Issues](https://img.shields.io/github/issues/VishnuPrasanth-A/Buger_Shop?style=flat-square)
 
 Welcome to the **Vishnu's Berger Hut** repository! This project is the codebase for our restaurant's website, designed to showcase our gourmet burgers and provide a seamless user experience. Whether you’re a burger enthusiast or a curious visitor, this website is crafted to offer an engaging and informative journey through our offerings.
 
